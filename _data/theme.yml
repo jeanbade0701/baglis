@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:600/h:939/q:75/https://bleedingcool.com/wp-content/uploads/2021/06/TRESE-GN-VOL-1-CVR.jpg
+featured-image: https://images.summitmedia-digital.com/spotph/images/2020/06/22/trese-us-640-1592828762.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
